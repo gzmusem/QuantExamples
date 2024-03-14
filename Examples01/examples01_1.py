@@ -12,6 +12,8 @@ print(is_student)  # 输出: True
 age = 25
 print(age)  # 输出: 25
 
+#数据类型例子
+
 # 浮点数类型
 height = 175.5
 print(height)  # 输出: 175.5
