@@ -1,4 +1,4 @@
-
+#类的继承和多态示例
 
 class Person:
     def __init__(self, name, age):

@@ -1,3 +1,5 @@
+#类的私有变量示例
+
 class BankAccount:
     def __init__(self, account_number, balance):
         self.__account_number = account_number  # 私有变量
